@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>67c63b35-cd3a-4ffc-8d96-79c25b9fc951</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EXERCISE\Treeview.py</StartupFile>
+    <StartupFile>EXERCISE\FullGradingSystem.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="EXERCISE\Button_Exercise.py" />
+    <Compile Include="EXERCISE\FullGradingSystem.py" />
     <Compile Include="EXERCISE\Label_Exercise.py" />
     <Compile Include="EXERCISE\TextEntry_Exercise.py" />
     <Compile Include="EXERCISE\Treeview.py" />

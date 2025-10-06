@@ -24,7 +24,7 @@ def calculate_grade():
         GradeOutput.config(text="Invalid")
         return None
 
-# Function to submit and insert into table
+# Function to submit and insert into table test
 def submit_data():
     grade = calculate_grade()
     if grade:
